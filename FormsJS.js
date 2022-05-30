@@ -1,4 +1,4 @@
-<script type="text/javascript" src="https://steadicat.github.io/labels/labels.js">
+<script type="text/javascript" src="https://github.com/KMeibom/JS/blob/main/FormsJS.js">
    (function(jQuery) {
 
   function measureWidth(deflt) {
